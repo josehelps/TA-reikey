@@ -1,5 +1,7 @@
 # TA-reikey
-Very simplistic splunk TA that ingests data outputted from https://objective-see.com/products/reikey.html
+Very simplistic splunk TA that ingests data outputted from https://objective-see.com/products/reikey.html that detects what keyboard taps an OSX machine has installed. 
+
+![example](static/example.png)
 
 # Installation 
 1. Have [ReiKey](https://objective-see.com/products/reikey.html) installed
@@ -10,3 +12,5 @@ Very simplistic splunk TA that ingests data outputted from https://objective-see
 # Your reikey installation path here
 REIKEY=~/Applications/ReiKey.app/Contents/MacOS/ReiKey
 ``` 
+
+
