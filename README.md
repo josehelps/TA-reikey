@@ -13,4 +13,5 @@ Very simplistic splunk TA that ingests data outputted from https://objective-see
 REIKEY=~/Applications/ReiKey.app/Contents/MacOS/ReiKey
 ``` 
 
-
+# Credits
+To @patrickwardle for building and opensourcing Reikey.  
